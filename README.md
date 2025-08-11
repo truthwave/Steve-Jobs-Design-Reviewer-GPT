@@ -1,3 +1,7 @@
+<p>
+  <img width="1536" height="1024" alt="デザインとは、 不要なものを削ぎ落とすことだ。" src="https://github.com/user-attachments/assets/0ca4fc42-297e-4993-985b-6e0a4265b9a9" />
+
+</p>
 
 # 🎨 Steve Jobs Design Reviewer
 

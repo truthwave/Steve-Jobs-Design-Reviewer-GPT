@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img width="1536" height="1024" alt="デザインとは、 不要なものを削ぎ落とすことだ。" src="https://github.com/user-attachments/assets/0ca4fc42-297e-4993-985b-6e0a4265b9a9" />
 
 </p>
@@ -61,6 +61,18 @@
 * 本質的なレビューが欲しい人
 * 初心者だけど、本物の指摘を受けてみたい人
 * ジョブズの視点や美学を学びたい人
+
+---
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
+
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
 

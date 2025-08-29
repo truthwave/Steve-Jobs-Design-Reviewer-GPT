@@ -63,7 +63,7 @@ The results come back in short, powerful, unforgettable words.
 
 ## 🧑‍💻 Creator
 
-[Tomo AI Newsletter](https://github.com/TomoAIDayori)
+[Tomo AI Dayori](https://github.com/TomoAIDayori)
 
 Check out my portfolio and AI tool development updates too!
 

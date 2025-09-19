@@ -13,7 +13,7 @@
 ## プロジェクト概要
 [スライド資料はこちら](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%82%A2%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
 
-[動画資料はこちら](https://youtu.be/mKwH9w0Nn_E)
+[動画資料はこちら](https://youtu.be/FTp66nONqFw)
 
 ---
 

@@ -1,16 +1,20 @@
-<p align="center">
-  <img width="1536" height="1024" alt="デザインとは、 不要なものを削ぎ落とすことだ。" src="https://github.com/user-attachments/assets/0ca4fc42-297e-4993-985b-6e0a4265b9a9" />
-
-</p>
-
 # 🎨スティーブ・ジョブズデザインレビュアー
 
 > デザインとは、美しくあることじゃない。
 > 必要なものだけを残すことだ。
 
+<p align="center">
+  <img width="1536" height="1024" alt="デザインとは、 不要なものを削ぎ落とすことだ。" src="https://github.com/user-attachments/assets/0ca4fc42-297e-4993-985b-6e0a4265b9a9" />
+
+</p>
+
+
+
 ---
 
-## プロジェクト概要
+## 🎬 デモ & 資料
+![デモ動画](https://github.com/TomoProgrammingDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
+
 #### [スライド資料はこちら](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%82%A2%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
 
 #### [動画資料はこちら](https://youtu.be/FTp66nONqFw)
@@ -42,7 +46,7 @@
 
 ---
 
-## 使い方
+## 使い方（3ステップ）
 
 1. デザインをアップロードする（画像、URL、説明文、何でも）
 2. 「チェックモードで」や「改善アドバイスください」と伝える
@@ -55,9 +59,6 @@
 > **現在このツールは、ココナラにて販売中です。**  
 > 詳細や導入相談は、以下よりご覧ください。
 > 
-> 🎯 9月限定｜キャンペーン中<br>
-> 初めての方にも安心してご利用いただけるよう、レビューにご協力いただける方へ特別価格でご提供しています。
->  
 > ### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmf1sifo004wd9e0gevy6oma5)
 >
 > ビフォーアフターサンプル(オプション)<br>
@@ -65,10 +66,33 @@
 
 ---
 
-## 📸 **体験イメージ**
-![デモ動画](https://github.com/TomoProgrammingDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
+🚫 やらないこと（期待値コントロール）
 
-### [スクリーンショットはこちら](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
+- 人格的な批評・抽象的な断定だけの指摘
+
+- 大幅な制作代行（Figma編集・実装）は本メニュー外
+
+- 他者の権利を侵害する要素の作成指示
+
+
+---
+
+## ❓FAQ
+
+Q. 画像が荒い／情報が少なくても診断できますか？
+A. 可能です。判断の確度を上げるため、目的やターゲットの簡単なメモがあると精度が上がります。
+
+Q. 多言語UIのレビューは可能ですか？
+A. 可能です（日本語／英語対応）。
+
+Q. 部分レビュー（配色だけ／コピーだけ）は？
+A. 可能です。ご依頼時に対象範囲を明記ください。
+
+Q. 再レビューはありますか？
+A. あります（条件は販売ページに準拠します）。
+
+Q. キャンペーン価格は？
+A. 時期により変動します。最新情報は販売ページをご確認ください。
 
 ---
 

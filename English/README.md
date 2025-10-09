@@ -1,16 +1,16 @@
+# 🎨 Steve Jobs Design Reviewer
+
 <p align="center">
 <img width="1536" height="1024" alt="デザインとは、 不要なものを削ぎ落とすことだ。" src="https://github.com/user-attachments/assets/1839d66d-d889-47a5-94db-4731a536c42b" />
 
 </p>
 
-# 🎨 Steve Jobs Design Reviewer
-
-> Design isn't about being beautiful.
-> It's about leaving only what's necessary.
+> Design is not beauty.
+> It is what remains after you strip away the unnecessary.
 
 ---
 
-## 📸 **Experience Image**
+## 🎬 **Experience Image**
 ![デモ動画](https://github.com/TomoAIDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Demo%20Movie.gif)
 
 ![ランディングページ_ビフォーアフター](https://github.com/TomoAIDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Landing%20Page_Before%20and%20After.jpeg)
@@ -21,74 +21,100 @@
 
 ---
 
-## Vision
+## ✨ Experience
 
-We've created a new form of design review.
-It's not just a review.
-It's an experience like having Steve Jobs sitting beside you, looking at your screen and saying “No” or murmuring “Beautiful”...
+Imagine Steve Jobs sitting right beside you.
+He looks at your color scheme and says “No.”
+He glances at your white space and murmurs “Beautiful.”
 
-Color schemes, spacing, UI/UX, and conceptual consistency.
-It instantly discerns whether it's the “real deal.”
-
----
-
-## 2 Modes
-
-This tool has two modes.
-
-* **Check Mode**
-  Cuts through the clutter with incisive feedback.
-* **Advice Mode**
-  Builds on strengths while polishing the design.
-
-By default, it's 70% sharp critique, 30% improvement hints.
-It combines both rigor and kindness.
+Reviews are short, sharp, and unforgettable.
 
 ---
 
-## How to Use
+## 🚀 What It Does
 
-1. Upload your design (image, URL, description, anything)
-2. Tell it “Check Mode” or “Give me improvement advice”
-3. Then just wait for Jobs to speak to you
+- Check Mode: Sharp feedback that cuts away the waste
+- Advice Mode: Hints to polish what's good
 
-The results come back in short, powerful, unforgettable words.
+Images, URLs, descriptions—give it anything.
+What comes back is only the essence.
 
 ---
 
+## 🎯 Effects
+
+- Discard “vague goodness”
+- Explain why it's good
+- Your intuition evolves into logic
+
+---
+
+## 🛠 Try it now
 > **This tool is currently available for purchase on Coconala.**  
-> For details or consultation, please see below.  
-> 👉 [View the Coconala Sales Page](https://coconala.com/services/3846680)
+> For details or consultation, please see below.
+> 
+> ### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmf1sifo004wd9e0gevy6oma5)
+>
+> Before-After Samples (Optional)<br>
+> #### 👉 [View the Optional Sales Page](https://coconala.com/services/3846680)
 
 ---
 
+## 🚫 What We Don't Do (Expectation Management)
+
+- Personal attacks or criticism based solely on abstract assertions
+
+- Significant production outsourcing (Figma editing/implementation) is outside this menu
+
+- Instructions to create elements that infringe on others' rights
+
+
 ---
 
-## For Who?
+## ❓FAQ
 
-* Those who want to refine their designs further
+Q. Can you diagnose even if the image is low-resolution/information is sparse?<br>
+A. Yes. Including brief notes on your purpose and target audience helps improve accuracy.
+
+Q. Can you review multilingual UIs?<br>
+A. Yes (Japanese/English supported).
+
+Q. Can I request a partial review (e.g., just color scheme / just copy)?<br>
+A. Yes. Please specify the scope when placing your order.
+
+Q. Do you offer re-reviews?<br>
+A. Yes (conditions follow the sales page).
+
+Q. What about campaign pricing?<br>
+A. Prices fluctuate by season. Please check the sales page for the latest information.
+
+---
+
+## For Whom
+
+* Those who want to refine their design further
 * Those seeking fundamental feedback
-* Beginners wanting authentic critique
-* Those wishing to learn Jobs' perspective and aesthetics
+* Beginners who want authentic, constructive criticism
+* Those wishing to learn Steve Jobs' perspective and aesthetic principles
 
 ---
 
 ## 🧑‍💻 Creator
 
-**[Truth Wave](https://github.com/truthwave)**  
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
-Check out my portfolio and AI tool development updates too!
+Check out our portfolio and AI tool development information too!
 
 
 ## Feel free to reach out
-[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+[📩 Contact us for consultations or quotes](mailto:realmadrid71214591@gmail.com)
 
 ---
 
-## The Spirit
+## Philosophy
 
 > “Think Different”
 > It's not just about changing appearances.
 > It's about redefining how we engage with the world.
 
-This tool will infuse that spirit into your designs too.
+This tool infuses that spirit into your designs.

@@ -5,11 +5,7 @@
 
 <p align="center">
   <img width="1536" height="1024" alt="デザインとは、 不要なものを削ぎ落とすことだ。" src="https://github.com/user-attachments/assets/0ca4fc42-297e-4993-985b-6e0a4265b9a9" />
-
 </p>
-
-
-<img width="1280" height="720" alt="スティーブ・ジョブズ" src="https://github.com/user-attachments/assets/98ee1157-d04c-4368-900e-1114fc9c12d3" />
 
 ---
 

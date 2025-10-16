@@ -1,8 +1,7 @@
 # 🎨 Steve Jobs Design Reviewer
 
 <p align="center">
-<img width="1536" height="1024" alt="デザインとは、 不要なものを削ぎ落とすことだ。" src="https://github.com/user-attachments/assets/1839d66d-d889-47a5-94db-4731a536c42b" />
-
+<img width="1536" height="1024" alt="20251016_1106_Minimalist Apple Keynote_simple_compose_01k7nc8nbaey9vav070s16dkes (1)" src="https://github.com/user-attachments/assets/50eedb3e-50fc-40a2-a341-79e89b4fb01d" />
 </p>
 
 > Design is not beauty.

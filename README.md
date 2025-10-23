@@ -6,7 +6,6 @@
 <p align="center">
 <img width="1536" height="1024" alt="20251016_1106_Minimalist Apple Keynote_simple_compose_01k7nc8nbaey9vav070s16dkes (1)" src="https://github.com/user-attachments/assets/56e517f5-0bca-4065-ba4c-7f1ef6c939a8" />
 </p>
-<img width="1536" height="1024" alt="ジョブズ (1)" src="https://github.com/user-attachments/assets/7ee5e693-5ae5-4640-9cfe-66e19835df0b" />
 
 ---
 

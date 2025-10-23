@@ -4,7 +4,7 @@
 > 不要を削ぎ落とした、その残りだ。
 
 <p align="center">
-<img width="1536" height="1024" alt="20251016_1106_Minimalist Apple Keynote_simple_compose_01k7nc8nbaey9vav070s16dkes (1)" src="https://github.com/user-attachments/assets/56e517f5-0bca-4065-ba4c-7f1ef6c939a8" />
+<img width="1536" height="1024" alt="ジョブズ" src="https://github.com/user-attachments/assets/1aa51795-b2d4-48d6-86c4-30ac294ac8ec" />
 </p>
 
 ---

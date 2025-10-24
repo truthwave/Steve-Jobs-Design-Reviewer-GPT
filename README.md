@@ -8,8 +8,6 @@
 </p>
 
 ---
-<img width="1280" height="720" alt="ジョブズ" src="https://github.com/user-attachments/assets/d39945ae-8f52-469a-a4be-5c500ef89faa" />
-
 
 ## 🎬 デモ & 資料
 ![デモ動画](https://github.com/TomoProgrammingDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)

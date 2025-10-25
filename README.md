@@ -10,10 +10,10 @@
 ---
 
 ## 🎬 デモ & 資料
+
 ![デモ動画](https://github.com/TomoProgrammingDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 [![【デザイン革命】スティーブ・ジョブズが"あなたの資料"をレビューしたら。](https://github.com/user-attachments/assets/d5453d09-be43-42e7-bc99-6e9f7321d524)](https://youtu.be/FTp66nONqFw)
-<img width="1280" height="720" alt="ジョブズ" src="https://github.com/user-attachments/assets/d5453d09-be43-42e7-bc99-6e9f7321d524" />
 
 #### [スライド資料はこちら](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%AC%E3%83%93%E3%83%A5%E3%82%A2%E3%83%BC%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
 

@@ -13,12 +13,12 @@
 
 [![【Design Revolution】What if Steve Jobs reviewed “your presentation materials”?](https://github.com/user-attachments/assets/273fe463-5f8a-4ee1-8b66-72bfc869cd07)](https://youtu.be/FTp66nONqFw)
 
-#### [Slide materials are here](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Steve%20Jobs%20Design%20Reviewer.pdf)
+#### [Slide materials are here](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Materials/Steve%20Jobs%20Design%20Reviewer.pdf)
 
 ---
 
 ## 🎬 **Experience Image**
-![デモ動画](https://github.com/TomoAIDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Demo%20Movie.gif)
+![デモ動画](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Materials/Demo%20Movie.gif)
 ---
 
 ## ✨ Experience

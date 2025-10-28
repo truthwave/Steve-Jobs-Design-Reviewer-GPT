@@ -8,6 +8,15 @@
 > It is what remains after you strip away the unnecessary.
 
 ---
+<img width="1280" height="720" alt="ジョブズ" src="https://github.com/user-attachments/assets/273fe463-5f8a-4ee1-8b66-72bfc869cd07" />
+
+## 🎬 Presentation Materials
+
+[![【Design Revolution】What if Steve Jobs reviewed “your presentation materials”?](https://github.com/user-attachments/assets/273fe463-5f8a-4ee1-8b66-72bfc869cd07)](https://youtu.be/FTp66nONqFw)
+
+#### [Slide materials are here](https://example.com)
+
+---
 
 ## 🎬 **Experience Image**
 ![デモ動画](https://github.com/TomoAIDayori/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Demo%20Movie.gif)

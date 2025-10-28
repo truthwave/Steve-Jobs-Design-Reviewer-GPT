@@ -8,7 +8,6 @@
 > It is what remains after you strip away the unnecessary.
 
 ---
-<img width="1280" height="720" alt="ジョブズ" src="https://github.com/user-attachments/assets/273fe463-5f8a-4ee1-8b66-72bfc869cd07" />
 
 ## 🎬 Presentation Materials
 

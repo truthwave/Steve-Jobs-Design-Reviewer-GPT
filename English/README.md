@@ -19,6 +19,9 @@
 
 ## 🎬 **Experience Image**
 ![デモ動画](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Materials/Demo%20Movie.gif)
+
+### [Screenshot](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/tree/main/English/Materials/Screenshot)
+
 ---
 
 ## ✨ Experience

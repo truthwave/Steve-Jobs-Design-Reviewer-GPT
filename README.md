@@ -100,7 +100,7 @@ A. 時期により変動します。最新情報は販売ページをご確認�
 
 ## 🧑‍💻 作者
 
-**[Truth Wave ― 真理の波](https://github.com/truthwave/Truth-Wave)**  
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
 

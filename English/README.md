@@ -54,13 +54,13 @@ What comes back is only the essence.
 ---
 
 ## 🛠 Try it now
-> **This tool is currently available for purchase on Coconala.**  
+> **This tool is currently available for purchase.**  
 > For details or consultation, please see below.
+>
+> ### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nadf0f771f769)
 > 
 > ### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmf1sifo004wd9e0gevy6oma5)
-
-> ### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nadf0f771f769)
-
+> 
 > Before-After Samples (Optional)<br>
 > #### 👉 [View the Optional Sales Page](https://coconala.com/services/3846680)
 

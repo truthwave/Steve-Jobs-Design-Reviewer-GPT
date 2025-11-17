@@ -51,10 +51,11 @@
 ## 🛠 今すぐ試す
 > **現在このツールは、ココナラにて販売中です。**  
 > 詳細や導入相談は、以下よりご覧ください。
+>
+> ### 👉 [noteの販売ページを見る](https://note.com/truth_wave/n/nadf0f771f769)
 > 
 > ### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmf1sifo004wd9e0gevy6oma5)
-
-> ### 👉 [noteの販売ページを見る](https://note.com/truth_wave/n/nadf0f771f769)
+>
 > 
 > ビフォーアフターサンプル(オプション)<br>
 > #### 👉 [オプションの販売ページを見る](https://coconala.com/services/3846680)

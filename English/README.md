@@ -9,15 +9,6 @@
 
 ---
 
-## 🎬 Presentation Materials
-
-### Watch on YouTube
-[![【Design Revolution】What if Steve Jobs reviewed “your presentation materials”?](https://github.com/user-attachments/assets/273fe463-5f8a-4ee1-8b66-72bfc869cd07)](https://youtu.be/FTp66nONqFw)
-
-#### [Slide materials are here](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Materials/Steve%20Jobs%20Design%20Reviewer.pdf)
-
----
-
 ## 🎬 **Experience Image**
 ![デモ動画](https://github.com/truthwave/Steve-Jobs-Design-Reviewer-GPT/blob/main/English/Materials/Demo%20Movie.gif)
 
@@ -87,10 +78,7 @@ Q. Can I request a partial review (e.g., just color scheme / just copy)?<br>
 A. Yes. Please specify the scope when placing your order.
 
 Q. Do you offer re-reviews?<br>
-A. Yes (conditions follow the sales page).
-
-Q. What about campaign pricing?<br>
-A. Prices fluctuate by season. Please check the sales page for the latest information.
+A. Yes.
 
 ---
 

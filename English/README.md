@@ -44,14 +44,18 @@ What comes back is only the essence.
 
 ---
 
-## 🛠 Try it now
-> **This tool is currently available for purchase.**  
-> For details or consultation, please see below.
->
-> ### 👉 [View the note Sales Page](https://note.com/truth_wave/n/nadf0f771f769)
-> 
-> Before-After Samples (Optional)<br>
-> #### 👉 [View the Optional Sales Page](https://coconala.com/services/3846680)
+## Trying Out Truth Wave GPTs
+
+The content written in this blog is designed to be usable as a “working GPT.”
+
+- For those who want everything organized (GPT core + optional materials)
+  This plan bundles the GPT core with optional materials like checklists and templates.
+### [→ Truth Wave GPTs Set (GPT + Optional Materials Included)](https://note.com/truth_wave/n/n75be8667edd8)
+
+
+- For those who want to try just one thing first (GPT core only)
+  This is for those who want to use only the GPT core for this specific theme.
+#### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/nadf0f771f769)
 
 ---
 
